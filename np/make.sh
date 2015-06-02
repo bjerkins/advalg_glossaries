@@ -1,0 +1,1 @@
+pandoc np.md -o "np.pdf" -V documentclass:article

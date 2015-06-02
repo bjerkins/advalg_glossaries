@@ -1,0 +1,1 @@
+pandoc *.md -o "comp_geo.pdf" -V documentclass:article
