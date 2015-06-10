@@ -84,4 +84,3 @@ Now we look at another edge in the Delaunay graph: $\overline{p_kp_l}$, having t
 ![Theorem 9.5](./theorem_9_5.png "")
 
 
-
